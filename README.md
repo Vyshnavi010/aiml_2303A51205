@@ -7,3 +7,4 @@
 [lab 6] https://colab.research.google.com/drive/1L_7Be5Rqlwa9nMPFj3CAZyXjsUdvlQSH#scrollTo=Uc3KNZlfjjOf
 [lab 7] https://colab.research.google.com/drive/1NcQ_IvRE5waxuQwh1N3Ufq76r-kxG89g
 [lab 8] https://colab.research.google.com/drive/1HKEo89Z-vJLyq4ER4ph__ZfP7uIiSlGY#scrollTo=feibTM2nlHU
+[lab 10] https://colab.research.google.com/drive/1ZwH_YL5pDIypE467ZWfJIqmWspg1Q1uc#scrollTo=8cau00oZFwzq
